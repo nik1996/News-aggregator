@@ -63,4 +63,4 @@ for name, clf in models:
 ###          DTC: 0.906540 (0.002461)
 ###          NBC: 0.921235 (0.002376)
 
-### Best performer is Logistic Regression. Parameter tuning is necessary for better performance.
+### Best performer is Logistic Regression.
